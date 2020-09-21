@@ -1,0 +1,8 @@
+echo "# project2020" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/hrideep2/project2020.git
+git push -u origin master
+    hello world
